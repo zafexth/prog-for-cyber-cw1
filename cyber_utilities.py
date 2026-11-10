@@ -1,5 +1,6 @@
 # Cyber Security Utilities
 # COMP08101 Coursework
+# B01817162
 
 def password_strength_checker():
     password = input("Enter a password: ")
